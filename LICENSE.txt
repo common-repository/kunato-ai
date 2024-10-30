@@ -1,0 +1,5 @@
+Proprietary License
+
+This software is licensed under a proprietary license. You may not use, copy, modify, or distribute this software without permission from the author.
+
+For more information, email us on developer@kunato.io
